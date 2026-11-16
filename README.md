@@ -1,4 +1,4 @@
-&lt;img src=&quot;banner.png&quot; alt=&quot;Newton Paul Pitta — Co-founder &amp; COO at Nasrev LLC&quot; width=&quot;100%&quot; /&gt;
+<img src="banner.png" alt="Newton Paul Pitta — Co-founder & COO at Nasrev LLC" width="100%" />
 
 # Newton Paul Pitta
 
