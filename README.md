@@ -1,4 +1,4 @@
-
+[./banner.png]
 
 # Hi, I'm Newton Paul Pitta 👋
 
