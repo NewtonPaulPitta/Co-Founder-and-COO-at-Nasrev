@@ -1,5 +1,4 @@
 [./banner.png]
-
 # Hi, I'm Newton Paul Pitta 👋
 
 **Co-founder & Chief Operating Officer (COO) at [Nasrev LLC](https://nasrev.com)**  
