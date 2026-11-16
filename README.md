@@ -1,4 +1,5 @@
 <img src="banner.png" alt="Newton Paul Pitta Banner" width="100%" />
+
 # Hi, I'm Newton Paul Pitta 👋
 
 **Co-founder & Chief Operating Officer (COO) at [Nasrev LLC](https://nasrev.com)**  
